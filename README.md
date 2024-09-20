@@ -16,7 +16,8 @@ The homework involves testing different DNN model architectures and hyperparamet
 * ```Linear Regression Screenshots```  
   The screenshots of the Linear Regression model for **Validation Data** as well as **Testing Data**.
 * ```Model Evaluation Screenshots```  
-  The screenshots of all the DNN models' results. The **.png** files are named as **model_name(learning_rate=X.XXXX)**.
+  The screenshots of all the DNN models' results. The **.png** files are named as **model_name(learning_rate=X.XXXX)**.    
+  All the DNN models were tested with ```epochs=100```  and ```batch_size=64```.  
 * ```Homework_1_CS5173_AnayJoshi.ipynb```  
   The code of **Linear Regression** and all the **DNN models**, along with all the required outputs.
 * ```Homework 1 - Anay Abhijit Joshi.pdf```  
